@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           iconic.app fixes
+@namespace      github.com/Venipa/userstyles
+@version        1.0.0
+@description    Fixing website stuff
+@author         Venipa <admin@venipa.net>
+==/UserStyle== */
+
+@-moz-document domain("iconic.app") {
+.icon-grid-icon .inner .icon img{
+    height: 48px;
+    width: 48px;
+}
+}
